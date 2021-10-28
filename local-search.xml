@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2021/10/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2021/10/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>This is my first blog</title>
+    <link href="/2021/10/28/blog/"/>
+    <url>/2021/10/28/blog/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to my blog</p><img src="/2021/10/28/blog/1.png" class="">]]></content>
     
     
     <categories>
